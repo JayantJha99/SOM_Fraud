@@ -1,2 +1,2 @@
 # SOM_Fraud
-Fraud Deetection using Self Organizing Maps
+Fraud Detection using Self Organizing Maps
